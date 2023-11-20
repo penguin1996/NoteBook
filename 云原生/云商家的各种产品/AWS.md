@@ -1,0 +1,3 @@
+参考：
+
+[AWS 海外区域账户免费套餐 - 亚马逊云科技 (amazon.com)](https://aws.amazon.com/cn/campaigns/freecenter-select-region/?trk=caae4898-ad64-40c1-a9fe-e37c99ec9046&sc_channel=PS&sc_campaign=acquisition_CN&sc_publisher=baidu&sc_category=pc&sc_medium=baidubz&sc_content=HL&sc_detail=HL&sc_segment=20210709001&sc_matchtype=exact&sc_country=CN&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free Tier Types=*all&awsf.Free Tier Categories=*all)
